@@ -2,6 +2,7 @@
 
 ## DevOps Bootcamp: Learn Linux & Become a Linux Sysadmin - 26 hours 22 minutes (Review 90%)
 (Current Progress 114 minutes / 40 hours)
+Today's Goal is 16 hours / 40 hours to remain on pace
 
 ## Bash Scripting: Learn Shell Scripting - 9 hours 38 minutes (Review 100%)
 
